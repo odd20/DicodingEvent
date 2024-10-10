@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DicodingEventApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">UpComing</string>
+    <string name="title_finished">Finished</string>
+    <string name="go_to_upcoming">Upcoming</string>
+    <string name="openDate">Terbuka Hingga:</string>
+    <string name="quotaRemain">Sisa Kuota:</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DicodingEventApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSurfaceVariant">#FFFFFF</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- SearchView-specific attributes -->
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- Warna teks di dalam SearchView -->
+        <item name="android:textColorHint">#CCCCCC</item>   <!-- Warna hint (placeholder) di dalam SearchView -->
+        <item name="colorControlNormal">#FFFFFF</item>      <!-- Warna ikon search default -->
+        <item name="colorControlActivated">#FF0000</item>   <!-- Warna ikon saat aktif (misalnya ikon close) -->
+        <item name="android:background">#333333</item>      <!-- Latar belakang untuk SearchView -->
+
+        <!-- Toolbar customization (if needed) -->
+        <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.Primary</item>
+
+        <!-- Customization for SearchView text appearance -->
+
+    </style>
+</resources>
